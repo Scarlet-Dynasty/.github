@@ -9,6 +9,9 @@ We are aiming high, but we still remain realistic about things. We work with the
 Most of us come from another place where we met and bonded through playing an SMP together, there were highs and lows, but as most of us went our separate ways, we kept in touch, doing our own things here and there along the way - and we still do! Throughout time, we have all developed our own unique skill sets, some have become expert command geniuses, add-on makers, coders, designers and other creative and technical masterminds.
 Now here we are, we came together again and started doing things together again, and we will continue to do so, for you, for us, for everyone as a whole!
 
+<br>
+<br>
+
 # Development Team
 
 - **Scarlet Phoenix** *(Owner)*
@@ -18,11 +21,17 @@ Now here we are, we came together again and started doing things together again,
 - **Ruby**
 - **Zhea Evyline**
 
+<br>
+<br>
+
 # Socials
 
 - **[Twitter](https://twitter.com/ScarletDynasty)** *Sneak-peaks & announcements.*
 - **[YouTube](https://www.youtube.com/channel/UCFZVpNDfKGdoArxYMBle4Hw)** *Content showcase & trailers.*
 - **[Discord](https://discord.gg/SaQbuBUuuw)** *Scarlet Dynasty community.*
+
+<br>
+<br>
 
 # Projects
 
@@ -31,7 +40,9 @@ Now here we are, we came together again and started doing things together again,
 - **2022**
     - [Birchview Estate](dd)
     - [Christmas Festival](dd)
-    - [UNO - Color Blind Friendly](dd)
+    - [UNO - Color Blind Friendly](https://github.com/Scarlet-Dynasty/uno-color-blind-friendly/wiki)
+
+<br>
 
 ## Resource Packs
 
